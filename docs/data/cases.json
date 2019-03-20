@@ -560,6 +560,14 @@
             "opensource": "https://github.com/yigger/jiezhang",
             "qrcode": "https://user-images.githubusercontent.com/9440426/53391906-cb67be80-39d2-11e9-96b3-68f35166d4b5.png",
             "company": ""
-        }
+        },
+        {
+            "name": "湖南交通频道",
+            "email": "foxweb@qq.com",
+            "link": "http://fm918.cn",
+            "opensource": "",
+            "qrcode": "https://user-images.githubusercontent.com/1277975/54677820-aa603c80-4b3e-11e9-896f-2b48417d0366.jpg",
+            "company": "湖南交通频道"
+        },
     ]
 }
